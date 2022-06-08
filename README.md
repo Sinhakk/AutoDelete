@@ -20,7 +20,7 @@ Delete group messages after a specific time
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/Sinhakk/AutoDelete-V2
+git clone https://github.com/Fakebaba2/AutoDelete-v2
 cd AutoDelete-V2
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
